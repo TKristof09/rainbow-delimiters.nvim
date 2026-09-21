@@ -66,10 +66,6 @@
   "(" @delimiter
   ")" @delimiter) @container
 
-(local_open_expression ; Line 27
-  "(" @delimiter
-  ")" @delimiter) @container
-
 (module_parameter ; Line 38
   "(" @delimiter
   ")" @delimiter) @container
