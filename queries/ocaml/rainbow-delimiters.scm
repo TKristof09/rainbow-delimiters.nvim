@@ -54,6 +54,10 @@
   "[" @delimiter
   "]" @delimiter) @container
 
+(empty_list ; Line 63
+  "[" @delimiter
+  "]" @delimiter) @container
+
 (array_expression ; Line 68
   "[|" @delimiter
   "|]" @delimiter) @container
